@@ -20,3 +20,4 @@ Untuk fungsi-fungsi lain, sebagaimana yang dicantumkan dalam poin penugasan, sud
 Yang menjadi naas dari hal diatas adalah ia berjalan baik hanya di localhost. Saat mencobanya di menjalankannya secara online, ternyata terdapat banyak fitur yang menemui error. Yang masih berjalan normal adalah fitur insert-view-edit-delete buku saja. Fitur insert-edit-delete user dan kategori dinyatakan '404 Page Not Found; The page you requested was not found', padahal saya coba cek kembali di controller, semuanya masih ada dan lengkap.
 
 
+
